@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather_Web_Application
 A program that uses open weather API to give current weather report of your location
 
@@ -18,4 +19,4 @@ The project description can be found in the [Google Slide](https://docs.google.c
 </div>
 
 # Application 
-[Weather-Web-App](https://mvp-project.vercel/)
+[Weather-Web-App](https://mvp-project.vercel.app/)
