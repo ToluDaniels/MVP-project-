@@ -8,14 +8,8 @@ A program that uses open weather API to give current weather report of your loca
   - [VERCEL](https://vercel.com/home) (A cloud platform where the project was deployed).
 
 ## Project Decription 
-The project description can be found in the [Google Slide](https://docs.google.com/presentation/d/1YioKP2jSoejZb6KvlINCkHuQDWSTXJ8_gzkV1wQozk8/edit?usp=sharing) Link
+The project description can be found in the [Google Slide](https://docs.google.com/presentation/d/1TC3yYABROA1QKfgsI_H-qeBrKcYp7jxzqfmLDYcShxc/edit#slide=id.g251bdc416f4_0_36) Link
 
-## Preview
-<div style="display:flex">
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://user-images.githubusercontent.com/Capture.PNG" width="800"/>
-     </div>
-</div>
 
 # Application 
 [Weather-Web-App](https://mvp-project.vercel.app/)
